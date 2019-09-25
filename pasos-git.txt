@@ -14,9 +14,14 @@ git push -u origin master
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 
-klmslkdasklnfwenfise
+PASOS:
 
+para crear una rama:     git branch "NombreDeLaRama"
+para entrar en la rama:   git checkout NombreDeLaRama
 
+para agregar de forma remota el contenido que se ha modificado: git add .
+para agregar un mensaje: git commit -m "Mensaje:Se ha agregado contenido nuevo"
+pushear: git push origin NombreDeLaRama
 
 
 
